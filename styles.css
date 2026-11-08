@@ -1,0 +1,79 @@
+
+body{
+  font-family: "Orbitron", sans-serif;
+  font-weight:bolder;
+}
+#back{
+  background-color:#181c63 ;
+  border: 2px solid black;
+  border-radius: 10px;
+  width: 450px;
+  padding: 15px;
+  padding-bottom: 50px;
+  text-align: center;
+  font-size: 15px;
+  display: flex;
+  justify-content: space-around;
+}
+
+@font-face {
+  font-family: 'myFont';
+  src: url(DSEG14Modern-Bold.woff2);
+}
+
+#homeScore{
+  border: 1px solid black;
+  width: 125px;
+  line-height: 100px;
+  background-color: black;
+  color:#d94b41;
+  font-size: 35px;
+  border-radius: 5px;
+  font-family: 'myFont', sans-serif;
+}
+#awayScore{
+  border: 1px solid black;
+  width: 125px;
+  line-height: 100px;
+  background-color: black;
+  color:#d94b41;
+  font-size: 35px;
+  border-radius: 5px;
+  font-family: 'myFont', sans-serif;
+}
+#one{
+  border: 1px solid gray;
+  background-color: #181c63;
+  padding: 8px 10px;
+  color: gray;
+  font-family: "Orbitron", sans-serif;
+  border-radius: 5px;
+}
+#two{
+  border: 1px solid gray;
+  background-color: #181c63;
+  padding: 8px 10px;
+  color: gray;
+  font-family: "Orbitron", sans-serif;
+  border-radius: 5px;
+}
+#three{
+  border: 1px solid gray;
+  background-color: #181c63;
+  padding: 8px 10px;
+  color: gray;
+  font-family: "Orbitron", sans-serif;
+  border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
